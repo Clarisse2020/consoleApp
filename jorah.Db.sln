@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jorah.Db", "jorah.Db\jorah.Db.csproj", "{CF43C806-2141-41DA-8D81-A28774C6E56B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF43C806-2141-41DA-8D81-A28774C6E56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF43C806-2141-41DA-8D81-A28774C6E56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF43C806-2141-41DA-8D81-A28774C6E56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF43C806-2141-41DA-8D81-A28774C6E56B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E85A34A4-DD33-43AC-93EA-CD3BE728923E}
+	EndGlobalSection
+EndGlobal
